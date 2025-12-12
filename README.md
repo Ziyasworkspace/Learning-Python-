@@ -1,6 +1,6 @@
 # Learning-Python-
 I am starting my Python learning journey.  
-This repository will contain all the small programs, exercises, and notes I write as I learn Python step by step.
+This repository will contain all the small programs, exercises, as I learn Python step by step.
 
 ## Current Status
 I am a beginner and just getting started.  
