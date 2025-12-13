@@ -5,4 +5,5 @@ This repository will contain all the small programs, exercises, as I learn Pytho
 ## Current Status
 I am a beginner and just getting started.  
 I will update this repo as I learn new topics.
-
+#Reference 
+CS50's Introduction to programming with python
